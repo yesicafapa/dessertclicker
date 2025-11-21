@@ -27,4 +27,3 @@ Dessert Clicker bekerja dengan cara:
 - Background menggunakan **pattern XML** yang dibuat secara manual dengan repeat tile.
 
 ---
-)
